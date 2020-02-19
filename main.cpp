@@ -3,7 +3,16 @@
 #include <vector>
 #include "point.h"
 #include "circle.h"
+// input filet magadnak gyártsd le, de segítségnek ide teszem az órait, feladat eredménye a 0.0 -2.0 pont.
+/*
+0.0  0.0  2.0
+  3.0    4.0
+-12.0    3.0
+  0.0  -10.0
+  0.0   -2.0
+  0.0    0.0
 
+*/
 using namespace std;
 // lineáris keresés dekralálása (szükséges előre mert amainben már hazsnáljuk de az implementálást ellehet később is végezni)
 bool search(const Circle& cir, const vector<Point> &t, unsigned int &ind);
