@@ -21,6 +21,7 @@ int main()
 {
   //1.óra anyaga
     ifstream f("input.txt");
+  // leellenörzi hogy jó e a fájl neve / létezik e ilyen fájl a könyvtárban
     if(f.fail()) cout << "Hibas fajl nev!\n";
     
     double a, b, c;
