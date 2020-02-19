@@ -1,10 +1,21 @@
 Ez a feladat csak gyakorlás! Tudást és tapasztalatot lehet vele szerezni.
 
-Valósítsd meg a négyzet típusát.Minden négyzetnek legyen 1 közép pontja és oldalhossza
+1 Valósítsd meg a négyzet típusát.Minden négyzetnek legyen 1 közép pontja és oldalhossza mindkettő privát
 Metódusok: 
+-konstruktor (nyilván)
 -terület, 
 -kerület
--Legyen egy metódusa ami megadja hogy egy pont a négyzetbe esik-e
+-getter
+-setter
+-Legyen egy metódusa ami megadja hogy egy pont a négyzetbe esik-e (ez picit gondolkodósabb. Érdemes végig gondolni)
 Operátorral tudjál beolvasni és kiírni négyzetet.
+
+Olvass be egy fájlt amiben van 1 négyzet és 5 db pont. Ird ki hogy melyik az első pont amelyik a négyzetbe esik.
+Ird ki hogy melyik pont esik a legközelebba négyzet közép pontjához (igen felhasználhatod az órai pont osztályt).
+
+
+Profibbaknak: 2 négyzet átfedi-e egymást.
+
+Cél: Objektumok működésének megértése.
 
 
