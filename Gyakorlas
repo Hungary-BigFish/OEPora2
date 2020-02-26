@@ -6,7 +6,8 @@ Metódusok:
 -terület, 
 -kerület
 -getter
--setter
+-setter dobjon exception: ne lehessen az oldal hosszt negatívra állítani. ÉS teszteljük is le az exception
+Teszteljük le hogy jól számolja e ki a területet ésa kerületet
 -Legyen egy metódusa ami megadja hogy egy pont a négyzetbe esik-e (ez picit gondolkodósabb. Érdemes végig gondolni)
 Operátorral tudjál beolvasni és kiírni négyzetet.
 
